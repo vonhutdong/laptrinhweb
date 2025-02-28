@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la bancuuchuong3
+=======
+day la bancuuchuong2
+>>>>>>> bangcuuchuong2
